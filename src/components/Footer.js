@@ -15,7 +15,7 @@ const Footer = () => {
           height={16}
           fontFamily="Roboto Mono"
         >
-          <p>Muhammad • © 2023</p>
+          <p>JOSENUNEZ-DEV • © 2023</p>
         </Flex>
       </footer>
     </Box>

@@ -25,27 +25,27 @@ const socials = [
   {
     title: "GitHub",
     icon: faGithub,
-    url: "https://github.com/MuhammadSabah",
+    url: "https://github.com/JoseEmiliano",
   },
   {
     title: "LinkedIn",
     icon: faLinkedin,
-    url: "https://www.linkedin.com/in/muhammad-sabah-4791b7226/",
+    url: "https://www.linkedin.com/in/",
   },
   // {
   //   title: "LeetCode",
   //   icon: "Leetcode",
-  //   url: "https://leetcode.com/MuhammadSabah/",
+  //   url: "https://leetcode.com/",
   // },
   {
     title: "StackOverflow",
     icon: faStackOverflow,
-    url: "https://stackoverflow.com/users/14839602/hama-sabah",
+    url: "https://stackoverflow.com/users/",
   },
   {
     title: "Twitter",
     icon: faTwitter,
-    url: "https://twitter.com/Hama02_dev",
+    url: "https://twitter.com/",
   },
 ];
 
