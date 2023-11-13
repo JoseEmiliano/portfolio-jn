@@ -1,7 +1,7 @@
 const projects = {
   frontEnd: [
     {
-      title: "Avira",
+      title: "project 1",
       description:
         "Discover fashion that fits your style with ease. Our e-commerce site offers a wide range of clothing options for every occasion. Shop now and elevate your wardrobe with just a few taps. ",
       getImageSrc: "./images/projects/frontEnd/avira.png",
@@ -10,12 +10,12 @@ const projects = {
       techStack: ["React", "Material UI", "Redux"],
     },
     {
-      title: "Little Lemon Restaurant",
+      title: "project 2",
       description:
         "Discover fresh, flavorful dining at Little Lemon. Book a table through our website and enjoy our creative menu in a relaxed atmosphere. Experience culinary excellence made with passion.",
       getImageSrc: "./images/projects/frontEnd/little-lemon.png",
-      github: "https://github.com/MuhammadSabah/Little-Lemon-Restaurant",
-      livePreview: "https://little-lemon-restaurant-three.vercel.app/",
+      github: "https://github.com/",
+      livePreview: "https://",
       techStack: ["React", "Tailwind CSS"],
     },
     {
@@ -23,8 +23,8 @@ const projects = {
       description:
         "Manage your contacts with ease using our app. Quickly add, delete, and edit contacts, always keeping your information up to date and organized.",
       getImageSrc: "./images/projects/frontEnd/contact-manager.png",
-      github: "https://github.com/MuhammadSabah/Contact-Manager",
-      livePreview: "https://web-js-assignment.vercel.app/",
+      github: "https://github.com/JoseEmiliano/",
+      livePreview: "https://",
       techStack: ["HTML", "CSS", "Vanilla JS", "Bootstrap"],
     },
     {
@@ -32,16 +32,16 @@ const projects = {
       description:
         "A blog website featuring insightful articles, personal experiences, and informative content covering a wide range of topics, offering readers a platform to explore and gain valuable knowledge.",
       getImageSrc: "./images/projects/frontEnd/my-blog.png",
-      github: "https://github.com/MuhammadSabah/My-Blog",
+      github: "https://github.com/JoseEmiliano/",
       livePreview: "",
       techStack: ["Laravel", "Blade", "Bootstrap"],
     },
     {
-      title: "My Drive",
+      title: "kempcloud drive",
       description:
         "A Google Drive clone project that replicates the functionality of Google Drive, allowing users to store and access their files and folders",
       getImageSrc: "./images/projects/frontEnd/my-drive.png",
-      github: "https://github.com/MuhammadSabah/My-Drive",
+      github: "https://github.com/JoseEmiliano/My-Drive",
       livePreview: "",
       techStack: ["PHP", "JavaScript", "Tailwind CSS"],
     },
@@ -58,21 +58,21 @@ const projects = {
       title: "Portfolio",
       description: "My Portfolio Website",
       getImageSrc: "./images/projects/frontEnd/my-portfolio.png",
-      github: "https://github.com/MuhammadSabah/My-Portfolio",
-      livePreview: "https://muhammad-sabah-portfolio.netlify.app/",
+      github: "https://github.com/JoseEmiliano/portofolio-jn.git",
+      livePreview: "https://josenunez-dev.site",
       techStack: ["React", "Chakra UI"],
     },
     {
       title: "Landing Pages",
       description: "A collection of beautifully designed landing pages",
       getImageSrc: "./images/projects/frontEnd/landing-pages.png",
-      github: "https://github.com/MuhammadSabah/Landing-Pages",
+      github: "https://github.com/JoseEmiliano/",
       livePreview: "",
       techStack: ["HTML", "Pure CSS"],
     },
 
     {
-      title: "Markdown Editor",
+      title: "Presentacion Markdown ",
       description:
         "Effortlessly create and edit markdown documents with our user-friendly online markdown editor. Rich text features, real-time preview, and the ability to download the markdown files.",
       getImageSrc: undefined,
@@ -87,7 +87,7 @@ const projects = {
       description:
         "Frisp - The ultimate recipe app for food lovers! Discover and share your culinary creations, find inspiration, and connect with a community of food enthusiasts.",
       getImageSrc: "./images/projects/flutter/frisp.png",
-      github: "https://github.com/MuhammadSabah/Frisp",
+      github: "https://github.com/",
       livePreview: "",
       techStack: ["Flutter", "Dart", "Firebase", "Provider"],
     },
@@ -96,7 +96,7 @@ const projects = {
       description:
         "A chat app using Material3 (Material You) Design with Riverpod for state management.",
       getImageSrc: "./images/projects/flutter/m-chat.png",
-      github: "https://github.com/MuhammadSabah/M-Chat",
+      github: "https://github.com/",
       livePreview: "",
       techStack: ["Flutter", "Dart", "Firebase", "Riverpod"],
     },
@@ -105,7 +105,7 @@ const projects = {
       description:
         "A minimalistic weather app providing accurate and up-to-date weather forecasts for your location.",
       getImageSrc: "./images/projects/flutter/weather-app.png",
-      github: "https://github.com/MuhammadSabah/Weather-App",
+      github: "https://github.com/",
       livePreview: "",
       techStack: ["Flutter", "Dart", "GetX"],
     },
@@ -114,7 +114,7 @@ const projects = {
       description:
         "Tic Tac Toe app is a simple, classic game where you can play against another player on your device. Perfect for all ages and skill levels.",
       getImageSrc: "./images/projects/flutter/tic-tac-toe.png",
-      github: "https://github.com/MuhammadSabah/Tic-Tac-Toe-App",
+      github: "https://github.com/",
       livePreview: "",
       techStack: ["Flutter", "Dart"],
     },
