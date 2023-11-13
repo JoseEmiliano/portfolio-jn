@@ -3,9 +3,9 @@ import { Avatar, Heading, VStack, Box, Image } from "@chakra-ui/react";
 import { Text } from "@chakra-ui/react";
 import FullScreenSection from "./FullScreenSection";
 
-const greeting = "Hello, I am Muhammad!";
+const greeting = "Hello, I am Jose Emiliano Nuñez!"; 
 const bio1 = "A Software Engineer";
-const bio2 = "specialized in React, Flutter, and interested in Python";
+const bio2 = "specialized in React, php and interested in Python";
 
 const LandingSection = () => (
   <FullScreenSection
@@ -17,8 +17,8 @@ const LandingSection = () => (
   >
     <Avatar
       size={{ base: "xl", md: "2xl" }}
-      name="Muhammad Sabah Ibrahim"
-      alt="Muhammad"
+      name="Jose Emiliano Nuñez"
+      alt="Nuñez"
       bg="#512da8"
     />
 
